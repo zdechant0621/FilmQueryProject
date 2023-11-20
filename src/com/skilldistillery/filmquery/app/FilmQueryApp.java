@@ -84,16 +84,5 @@ public class FilmQueryApp {
 
 	}
 
-//	private void filmDetails(Film film) {
-//	    System.out.println("Title: " + film.getTitle());
-//	    System.out.println("Description: " + film.getDescription());
-//	    System.out.println("Release Year: " + film.getReleaseYear());
-//	    System.out.println("Rating: " + film.getRating());
-//	    System.out.println("Language: " + film.getLanguage());
-//	    System.out.println("Actors: ");
-//	    for (Actor actor : film.getActors()) {
-//	        System.out.println(actor);
-//	    }
-//	}
 
 }
